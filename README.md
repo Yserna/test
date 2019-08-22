@@ -1,6 +1,7 @@
 # test
 
 # lab-Memory-API
+![alt text](home/yenni/LabSO/Lab-Memory-API/1.png)
 file:///home/yenni/LabSO/Lab-Memory-API/1.png
 
 Memory API
